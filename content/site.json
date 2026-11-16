@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "name": {
+      "ar": "فارس الرشيد",
+      "en": "Faris Alrasheed"
+    },
+    "line": {
+      "ar": "طالب هندسة برمجيات · أبني ما لم أجده كما أريده",
+      "en": "Software engineering student · I build what I couldn't find the way I wanted it"
+    },
+    "cvUrl": ""
+  },
+  "experience": [
+    {
+      "id": "thraa",
+      "current": true,
+      "role": {
+        "ar": "قائد اللجنة التقنية",
+        "en": "Tech committee lead"
+      },
+      "org": {
+        "ar": "مبادرة ثراء",
+        "en": "Thraa Initiative"
+      },
+      "note": {
+        "ar": "أقود مجموعة من المطوّرين.",
+        "en": "I lead a group of developers."
+      },
+      "period": {
+        "ar": "2026 – الآن",
+        "en": "2026 – now"
+      }
+    },
+    {
+      "id": "khotwa",
+      "current": false,
+      "role": {
+        "ar": "المسؤول التقني",
+        "en": "Technical lead"
+      },
+      "org": {
+        "ar": "مبادرة خطوة",
+        "en": "Khotwa Initiative"
+      },
+      "note": {
+        "ar": "بنيت موقع المبادرة ونظام التسجيل.",
+        "en": "Built the initiative's site and registration system."
+      },
+      "period": {
+        "ar": "2026",
+        "en": "2026"
+      }
+    },
+    {
+      "id": "ksu",
+      "current": false,
+      "role": {
+        "ar": "طالب هندسة برمجيات",
+        "en": "Software engineering student"
+      },
+      "org": {
+        "ar": "جامعة الملك سعود",
+        "en": "King Saud University"
+      },
+      "note": {
+        "ar": "السنة الثالثة.",
+        "en": "Third year."
+      },
+      "period": {
+        "ar": "2024 – الآن",
+        "en": "2024 – now"
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/farisalrasheed/"
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/FarisAlRasheed"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "url": "https://wa.me/966560209077"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "url": "mailto:farsalrasheed27@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "antabih",
+      "icon": "bang",
+      "color": "#8fd3a4",
+      "flagship": true,
+      "hidden": false,
+      "name": {
+        "ar": "انتبه",
+        "en": "Watchout"
+      },
+      "line": {
+        "ar": "يسألك لماذا فتحت يوتيوب قبل أن تضيع ساعة.",
+        "en": "Asks why you opened YouTube before an hour disappears."
+      },
+      "about": {
+        "ar": "كنت أفتح يوتيوب دون أن أشعر وأنا أذاكر. الإضافات الجاهزة كانت تحجبه تمامًا، وأنا أحتاجه أحيانًا للدراسة. فبنيت إضافة تسألني أولًا، وتعطيني وقتًا قصيرًا حين أحتاجه فعلًا. جرّبها: اضغط أيقونة يوتيوب في الشاشة الرئيسية.",
+        "en": "I kept opening YouTube without noticing while studying. Existing blockers shut it out completely, and sometimes I need it for study. So I built an extension that asks me first and gives a short window when I really need it. Try it: tap the YouTube icon on the home screen."
+      },
+      "type": {
+        "ar": "إضافة Chrome",
+        "en": "Chrome extension"
+      },
+      "state": {
+        "ar": "متاح",
+        "en": "Available"
+      },
+      "url": "https://github.com/FarisAlRasheed/watchout"
+    },
+    {
+      "id": "athkarna",
+      "icon": "beads",
+      "color": "#6b4423",
+      "flagship": true,
+      "hidden": false,
+      "name": {
+        "ar": "أذكارنا",
+        "en": "Athkarna"
+      },
+      "line": {
+        "ar": "تطبيق أذكار بأوقات الصلاة وسماء تتبع يومك.",
+        "en": "An athkar app with prayer times and a sky that follows your day."
+      },
+      "about": {
+        "ar": "تطبيق أذكار يعرض ما يناسب وقتك، تقرؤه وتعدّه ذكرًا ذكرًا على سماء تتغير مع اليوم. مجاني، بلا إعلانات، ويعمل بلا إنترنت.",
+        "en": "An athkar app that shows what fits the moment, read and counted one at a time over a sky that changes through the day. Free, no ads, works offline."
+      },
+      "type": {
+        "ar": "تطبيق جوال وويب",
+        "en": "Mobile and web app"
+      },
+      "state": {
+        "ar": "متاح على الويب",
+        "en": "Live on the web"
+      },
+      "url": "https://github.com/FarisAlRasheed/AthkarApp"
+    },
+    {
+      "id": "labinah",
+      "icon": "bricks",
+      "color": "#4c96d0",
+      "flagship": true,
+      "hidden": false,
+      "name": {
+        "ar": "لبنة لبنة",
+        "en": "Brick by Brick"
+      },
+      "line": {
+        "ar": "لعبة ثلاثية الأبعاد تبني فيها المسجد النبوي كما كان.",
+        "en": "A 3D game where you build the Prophet's Mosque as it was."
+      },
+      "about": {
+        "ar": "لعبة بمنظور الشخص الأول تشارك فيها في بناء المسجد النبوي في عهده الأول، مبنية على بحث تاريخي طويل في تفاصيل المكان.",
+        "en": "A first-person game where you help build the Prophet's Mosque in its earliest form, based on long historical research into the place."
+      },
+      "type": {
+        "ar": "لعبة متصفح",
+        "en": "Browser game"
+      },
+      "state": {
+        "ar": "قيد البناء",
+        "en": "In progress"
+      },
+      "url": ""
+    },
+    {
+      "id": "kafea",
+      "icon": "star",
+      "color": "#1c6b3f",
+      "flagship": false,
+      "hidden": false,
+      "name": {
+        "ar": "كافئ",
+        "en": "Kafea"
+      },
+      "line": {
+        "ar": "يحسب مكافآت الأطفال من مهامهم: ريالات ودقائق لعب.",
+        "en": "Tracks children's rewards from tasks: riyals and play minutes."
+      },
+      "about": {
+        "ar": "",
+        "en": ""
+      },
+      "type": {
+        "ar": "تطبيق ويب للجوال",
+        "en": "Phone-first web app"
+      },
+      "state": {
+        "ar": "خاص بالعائلة",
+        "en": "Private to the family"
+      },
+      "url": ""
+    },
+    {
+      "id": "masjid",
+      "icon": "check",
+      "color": "#fdfbf2",
+      "flagship": false,
+      "hidden": false,
+      "name": {
+        "ar": "سجل الحضور",
+        "en": "Masjid Attendance"
+      },
+      "line": {
+        "ar": "بنيته لنفسي إمامًا: يسجّل الحضور والنوّاب ويحسب ما يقابل كل غياب.",
+        "en": "Built for myself as an imam: logs attendance and deputies and works out what each absence is worth."
+      },
+      "about": {
+        "ar": "",
+        "en": ""
+      },
+      "type": {
+        "ar": "تطبيق ويب للجوال",
+        "en": "Phone-first web app"
+      },
+      "state": {
+        "ar": "مستخدم",
+        "en": "In use"
+      },
+      "url": ""
+    },
+    {
+      "id": "coursequest",
+      "icon": "book",
+      "color": "#a62e1a",
+      "flagship": false,
+      "hidden": false,
+      "name": {
+        "ar": "Course Quest",
+        "en": "Course Quest"
+      },
+      "line": {
+        "ar": "يحوّل ملفات المقرر إلى موقع مراجعة ممتع.",
+        "en": "Turns a course's files into an enjoyable revision site."
+      },
+      "about": {
+        "ar": "",
+        "en": ""
+      },
+      "type": {
+        "ar": "أداة للطلاب",
+        "en": "Tool for students"
+      },
+      "state": {
+        "ar": "متاح",
+        "en": "Available"
+      },
+      "url": ""
+    }
+  ],
+  "wallpapers": {
+    "day": "",
+    "night": ""
+  }
+}
